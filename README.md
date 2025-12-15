@@ -65,4 +65,3 @@ TicTacToe-Java/
 
 ---
 
-en Python programming skills.*
